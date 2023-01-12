@@ -1,0 +1,72 @@
+body{
+    background-color: whitesmoke;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+.insta{
+    text-align: center;
+    padding: 20px; 
+    background-color: rgb(226, 226, 226);
+    height: 370px;
+    margin-left: 750px;
+    margin-right: 700px;
+    margin-top: 100px;
+    border: 1px solid rgb(172, 172, 172);
+}
+.email{
+    margin-left:48px ;
+    padding: 7px;
+    width: 260px;
+    border: none;
+    border-radius: 3px;
+    border: 1px solid rgb(150, 150, 150);
+}
+.pass{
+    margin-left:48px ;
+    padding: 7px;
+    width: 260px;
+    border: none;
+    border-radius: 3px;
+    border: 1px solid rgb(150, 150, 150);
+}
+
+.hr-1{
+    margin-left: 50px;
+    margin-right: 250px;
+    padding-top: 20px;
+}
+.linktag{
+text-decoration: none;
+color: rgb(43, 43, 158);
+font-size: 20px;
+margin-top: 30px;
+    
+}
+#para{
+    text-decoration: none;
+    color: rgb(27, 27, 27);
+    margin-top: 20px;
+}
+#log{
+    margin-left:48px ;
+    padding: 7px;
+    width: 275px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(118, 201, 250);
+
+}
+.insta-2{
+    text-align: center;
+    padding: 20px; 
+    background-color: rgb(226, 226, 226);
+    height: 50x;
+    margin-left: 750px;
+    margin-right: 700px;
+    margin-top: 20px;
+    border: 1px solid rgb(172, 172, 172);
+}
+
